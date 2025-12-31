@@ -36,6 +36,7 @@ Proyek ini dikembangkan sebagai proyek akhir mata kuliah **Visi Komputer**, deng
 ### 🔍 Pengolahan Citra MRI
 
 ✅ Load dan normalisasi citra MRI
+
 ✅ Noise reduction dan image enhancement
 ✅ Deteksi tepi menggunakan Canny
 ✅ Boundary detection dengan contour
