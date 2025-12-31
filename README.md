@@ -1,4 +1,4 @@
-# 📄 UAS_Viskom_BrainTumorDetection
+# 📄 UAS_Viskom_DeteksiTumorOtak
 
 **OpenCV & CNN Python Jupyter Project**
 
