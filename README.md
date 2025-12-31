@@ -7,6 +7,7 @@ Sistem analisis citra medis berbasis *Computer Vision* dan *Convolutional Neural
 **Demo • Fitur • Instalasi • Penggunaan • Teknologi**
 
 **Nama:** M. Agradika Ridhal Eljatin
+
 **NPM:** *2208107010020*
 
 ---
@@ -38,22 +39,31 @@ Proyek ini dikembangkan sebagai proyek akhir mata kuliah **Visi Komputer**, deng
 ✅ Load dan normalisasi citra MRI
 
 ✅ Noise reduction dan image enhancement
+
 ✅ Deteksi tepi menggunakan Canny
+
 ✅ Boundary detection dengan contour
+
 ✅ Segmentasi area otak dan tumor
 
 ### 🧠 Analisis & Klasifikasi
 
 ✅ Ekstraksi fitur citra
+
 ✅ Klasifikasi citra MRI menggunakan CNN
+
 ✅ Prediksi citra **Normal / Tumor**
+
 ✅ Confidence score hasil klasifikasi
 
 ### 📊 Visualisasi
 
 ✅ Tampilan citra MRI asli
+
 ✅ Visualisasi hasil preprocessing
+
 ✅ Penandaan area tumor
+
 ✅ Grafik akurasi dan loss CNN
 
 ---
@@ -182,8 +192,11 @@ Output & Visualization
 ### Kelebihan
 
 ✅ Sistem otomatis
+
 ✅ Integrasi materi lengkap
+
 ✅ Visualisasi jelas
+
 ✅ Cocok untuk pembelajaran
 
 ### Limitasi
